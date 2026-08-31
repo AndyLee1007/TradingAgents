@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "foundry-mcp-remote": {
+      "tools": [
+        "*"
+      ],
+      "type": "http",
+      "url": "https://mcp.ai.azure.com"
+    },
+    "longbridge": {
+      "tools": [
+        "*"
+      ],
+      "type": "http",
+      "url": "https://mcp.longbridge.com"
+    }
+  }
+}
